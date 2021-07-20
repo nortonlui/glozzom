@@ -6,7 +6,7 @@ The company you can trust to support your TI
 
 ## Demo
 
-[Link](https://codepen.io/nortonlui/pen/mdmWBYE)
+[Link](https://glozzom-x.netlify.app)
 
 ## Run Locally
 
