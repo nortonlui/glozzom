@@ -33,6 +33,11 @@ body {
   background-size: cover;
 }
 
+#main-footer {
+  background: #000;
+  color: white;
+}
+
 /* Home Heading */
 
 #home-heading {
@@ -67,4 +72,38 @@ body {
 
 #video-play a {
   color: white;
+}
+
+/* About header */
+
+#page-header {
+  height: 200px;
+  background: url('../img/image1.jpg');
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: white;
+  border-bottom: 1px solid #eee;
+  padding-top: 50px;
+}
+
+/* About section */
+
+.about-img {
+  margin-top: -50px;
+}
+
+/* Faq section */
+
+#faq .card {
+  border: #444;
+}
+
+#faq a {
+  color: white;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
 }
